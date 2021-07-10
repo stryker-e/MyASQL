@@ -1,2 +1,2 @@
 # MyASQL
-A simple SQL database to document a users' history of anime shows watched.
+A simple SQL database to document a user's history of anime shows watched.
